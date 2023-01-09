@@ -1,0 +1,9 @@
+@import '../styles/reset.css';
+
+body {
+  background-color: yellow;
+}
+
+[v-cloak] {
+  display: none;
+}

@@ -1,0 +1,20 @@
+{
+    "name": "arnoson/kirby-petite-vue-kit",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "arnoson",
+            "email": "hallo@arno-schlipf.info"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "getkirby/cms": "3.9.0-rc.1",
+        "arnoson/kirby-vite": "dev-main"
+    },
+    "config": {
+        "allow-plugins": {
+            "getkirby/composer-installer": true
+        }
+    }
+}
